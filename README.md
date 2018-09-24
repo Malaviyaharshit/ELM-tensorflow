@@ -1,12 +1,11 @@
 # ELM-tensorflow
-Extreme Learning Machine with TensorFlow.
+Extreme Learning Machine with TensorFlow. THIS VERSION HAS BEEN DEPRECATED AND WILL NOT BE UPDATED.
 
 ## Toy example (MNIST)
 
 ```bash
 python mnist_example.py
 ```
-(In this example, the input size is 5000. It gives 82% accuracy on mnist test data set.)
 
 MNIST data set : http://yann.lecun.com/exdb/mnist/
 
