@@ -1,5 +1,6 @@
 # ELM-tensorflow
 Extreme Learning Machine with TensorFlow. THIS VERSION HAS BEEN DEPRECATED AND WILL NOT BE UPDATED.
+You can use another implementation https://github.com/iwyoo/OSELM-tensorflow, which works more stable.
 
 ## Toy example (MNIST)
 
